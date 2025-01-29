@@ -30,7 +30,7 @@ This project can be used as a starting point for any web application or service 
 
 ## Credits
 
-This project was developed by Gabriel Ralph Christian. It is inspired by typical nutritional labels found on food packaging.
+This project was developed by Gabriel Ralph Christian. It is inspired by typical nutritional labels found on food packaging and FreeCodeCamp
 
 ## License
 
